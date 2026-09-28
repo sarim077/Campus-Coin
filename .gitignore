@@ -1,0 +1,40 @@
+# SQL exports
+*.sql
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+/.fleet
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Laravel specific (for project folder)
+project/.phpunit.cache
+project/node_modules
+project/public/build
+project/public/hot
+project/public/storage
+project/storage/*.key
+project/vendor
+project/.env
+project/.env.backup
+project/.env.production
+project/.phpunit.result.cache
+project/admin-login.txt
+project/Homestead.json
+project/Homestead.yaml
+project/auth.json
+project/npm-debug.log
+project/yarn-error.log
