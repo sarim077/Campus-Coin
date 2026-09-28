@@ -1,3 +1,4 @@
+https://campuscoin.xo.je/coin/project/public/index.php/admin/clear-cache
 # Campus Coin
 
 A comprehensive student budget management and financial tracking application built with Laravel.
